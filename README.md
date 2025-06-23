@@ -10,9 +10,9 @@ Descrição breve sobre o que é o projeto, seus objetivos e público-alvo.
 
 ## 🛠️ Funcionalidades
 
-- [ ] Funcionalidade 1
-- [ ] Funcionalidade 2
-- [ ] Funcionalidade 3
+- [ ] Funcionalidade 
+- [ ] Funcionalidade 
+- [ ] Funcionalidade 
 
 ## 🔧 Como Rodar Localmente
 

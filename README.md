@@ -10,7 +10,7 @@ Descrição breve sobre o que é o projeto, seus objetivos e público-alvo.
 
 ## 🛠️ Funcionalidades
 
-- [ ] Funcionalidade 
+- [ ] Funcionalidade
 - [ ] Funcionalidade 
 - [ ] Funcionalidade 
 
